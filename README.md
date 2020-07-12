@@ -11,8 +11,8 @@ I'm Alexandre, a french JS Developer.
 
 ## Let's get in touch 😃
 
-:point_right: [Twitter](https://twitter.com/lxndrcn)<br><br>
-:point_right: [LinkedIn](https://www.linkedin.com/in/alexandrecoin)<br><br>
+:point_right: [Twitter](https://twitter.com/lxndrcn)<br>
+:point_right: [LinkedIn](https://www.linkedin.com/in/alexandrecoin)<br>
 
 <!--
 **alexandrecoin/alexandrecoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
