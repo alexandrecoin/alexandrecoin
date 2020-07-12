@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm Alexandre, a french JS Developer.
+
+## Techs I use on a regular basis
+
+:point_right: [VueJS] (https://vuejs.org/)<br/>
+:point_right: [NodeJS] (https://nodejs.org/en/)<br/>
+:point_right: [MongoDB] (https://www.mongodb.com/)<br/>
+:point_right: [PostgreSQL] (https://www.postgresql.org/)<br/>
+
+## Let's get in touch 😃
+
+:point_right: [Twitter](https://twitter.com/lxndrcn)<br><br>
+:point_right: [LinkedIn](https://www.linkedin.com/in/alexandrecoin)<br><br>
+
 <!--
 **alexandrecoin/alexandrecoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
