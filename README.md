@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋<
 
-I'm Alexandre, a french JS Developer.
+I'm Alexandre, a french JS Developer proudly working for a public interest group which aims at getting every citizen computer literate. 🖥
 
 ## Techs I use on a regular basis
 
