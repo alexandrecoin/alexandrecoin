@@ -2,6 +2,8 @@
 
 I'm Alexandre, a french JS Developer proudly working for a public interest group which aims at getting every citizen computer literate. 🖥
 
+Interested in Go and software craftmanship.
+
 ## Techs I use on a regular basis
 
 :point_right: [VueJS] (https://vuejs.org/)<br/>
