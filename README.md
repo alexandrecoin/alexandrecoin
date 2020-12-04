@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm Alexandre, a french JS Developer proudly working for a public interest group which aims at getting citizens computer literate. 🖥
+I'm Alexandre, a 🇫🇷 JS Developer proudly working for a public interest group which aims at getting citizens computer literate. 🖥
 
-Interested in Go and software craftmanship.
+Interested in Go and software craftsmanship.
+
+- 🔭 I’m currently working on [Pix](https://www.pix.fr) and on a board for job-seekers in the IT field in Japan. 🇯🇵
+- 🌱 I’m currently learning Golang and everything Craftsmanship related (TDD/BDD, Clean Code, Clean Architecture, DDD)
 
 ## Techs I use on a regular basis
 
