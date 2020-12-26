@@ -5,7 +5,8 @@ I'm Alexandre, a 🇫🇷 JS Developer proudly working for a public interest gro
 Interested in Go and software craftsmanship.
 
 - 🔭 I’m currently working on [Pix](https://www.pix.fr) and on a board for job-seekers in the IT field in Japan. 🇯🇵
-- 🌱 I’m currently learning Golang and everything Craftsmanship related (TDD/BDD, Clean Code, Clean Architecture, DDD)
+- 🌱 Focusing on Software Craftsmanship (TDD/BDD, Clean Code, Clean Architecture, DDD)
+- ✨ Interested in Golang
 
 ## Techs I use on a regular basis
 
