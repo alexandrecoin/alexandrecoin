@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alexandre, a 🇫🇷 JS Developer proudly working for a public interest group which aims at getting citizens computer literate. 🖥
+I'm Alexandre, a 🇫🇷 JS Developer proudly working for a public interest group which aims at providing for citizens a way to measure, develop and highlight their digital skills. 🖥
 
 Interested in Go and software craftsmanship.
 
