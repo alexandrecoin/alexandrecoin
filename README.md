@@ -17,6 +17,8 @@ I'm Alexandre, a 🇫🇷 JS Developer proudly working for a public interest gro
 :point_right: [Twitter](https://twitter.com/lxndrcn)<br>
 :point_right: [LinkedIn](https://www.linkedin.com/in/alexandrecoin)<br>
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=alexandrecoin)](https://github.com/alexandrecoin/github-readme-stats)
+
 <!--
 **alexandrecoin/alexandrecoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
