@@ -7,10 +7,10 @@ I'm Alexandre, a 🇫🇷 JS Developer proudly working for a public interest gro
 
 ## Techs I use on a regular basis
 
-:point_right: [VueJS] (https://vuejs.org/)<br/>
-:point_right: [NodeJS] (https://nodejs.org/en/)<br/>
-:point_right: [MongoDB] (https://www.mongodb.com/)<br/>
-:point_right: [PostgreSQL] (https://www.postgresql.org/)<br/>
+:point_right: [VueJS](https://vuejs.org/)<br/>
+:point_right: [NodeJS](https://nodejs.org/en/)<br/>
+:point_right: [MongoDB](https://www.mongodb.com/)<br/>
+:point_right: [PostgreSQL](https://www.postgresql.org/)<br/>
 
 ## Let's get in touch 😃
 
