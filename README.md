@@ -3,7 +3,7 @@
 I'm Alexandre, a 🇫🇷 JS Developer proudly working for a public interest group which aims at providing for citizens a way to measure, develop and highlight their digital skills. 🖥
 
 - 🔭 Working for [Pix](https://www.pix.fr).
-- 💻 Maintener for Hitsuio, a OSS job-board for the japanese market (for now 🤞🏻)
+- 💻 Maintener for Hitsuio, an OSS job-board for the japanese market (for now 🤞🏻)
 - 🌱 Interested in Software Craftsmanship (TDD/BDD, Clean Code, Clean Architecture, DDD)
 
 ## Let's get in touch 😃
