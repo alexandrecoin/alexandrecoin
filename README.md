@@ -4,7 +4,7 @@ I'm Alexandre, a 🇫🇷 JS Developer proudly working for a public interest gro
 
 - 🔭 Working for [Pix](https://www.pix.fr).
 - 🌱 Interested in everything TDD/BDD, Clean Code, Clean Architecture, Domain-Driven Design
-- Product centered
+- 💻 Product centered
 
 ## Let's get in touch 😃
 
