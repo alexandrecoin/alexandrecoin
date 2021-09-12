@@ -3,7 +3,7 @@
 I'm Alexandre, a 🇫🇷 JS Developer proudly working for Pix, a public interest group which aims at providing for citizens a way to measure, develop and highlight their digital skills. 🖥
 
 - 🔭 Working for [Pix](https://www.pix.fr).
-- 🌱 Interested in everything TDD/BDD, Clean Code, Clean Architecture, Domain-Driven Design
+- 🌱 Interested in everything related to Software Craftsmanship and Web3 
 - 💻 Product and user driven
 
 ## Let's get in touch 😃
