@@ -4,6 +4,7 @@ I'm Alexandre, a 🇫🇷 JS Developer proudly working for Pix, a public interes
 
 - 🔭 Working for [Pix](https://www.pix.fr).
 - 🌱 Interested in software craftsmanship practices
+- 💻 Learning about Web3
 
 ## Let's get in touch 😃
 
