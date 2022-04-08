@@ -6,7 +6,7 @@ I'm Alexandre, a 🇫🇷 JS Developer proudly working for Pix, a public interes
 
 [![My Skills](https://skillicons.dev/icons?i=ember,nodejs)](https://skillicons.dev)
 
-## Let's get in touch 😃
+## SNS handles ✉️
 
 :point_right: [Twitter](https://twitter.com/lxndrcn)<br>
 :point_right: [LinkedIn](https://www.linkedin.com/in/alexandrecoin)<br>
