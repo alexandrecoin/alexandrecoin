@@ -4,7 +4,7 @@ I'm Alexandre, a 🇫🇷 JS Developer proudly working for Pix, a public interes
 
 - 🔭 Working for [Pix](https://www.pix.fr).
 
-[![My Skills](https://skillicons.dev/icons?i=ember,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ember,nodejs,javascript,typescript)](https://skillicons.dev)
 
 ## SNS handles ✉️
 
