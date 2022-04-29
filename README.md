@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm Alexandre, a 🇫🇷 JS Developer proudly working for Pix, a public interest group which aims at providing for citizens a way to measure, develop and highlight their digital skills. 🖥
-
-- 🔭 Working for [Pix](https://www.pix.fr).
-
-[![My Skills](https://skillicons.dev/icons?i=react,ember,nodejs,javascript,typescript)](https://skillicons.dev)
+I'm Alexandre, a 🇫🇷 JS Developer proudly working for [Pix](https://www.pix.fr), a public interest group which aims at providing for citizens a way to measure, develop and highlight their digital skills.
 
 ## SNS handles ✉️
 
