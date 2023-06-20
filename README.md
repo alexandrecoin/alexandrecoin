@@ -4,7 +4,7 @@ I'm Alexandre, a 🇫🇷 JS Developer proudly working for [Pix](https://www.pix
 
 ## SNS handles ✉️
 
-:point_right: [Twitter](https://twitter.com/lxndrcn)<br>
+:point_right: [Twitter](https://twitter.com/alexandrecoin_)<br>
 :point_right: [LinkedIn](https://www.linkedin.com/in/alexandrecoin)<br>
 
 <!--
