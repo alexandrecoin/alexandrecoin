@@ -2,6 +2,8 @@
 
 I'm Alexandre, a 🇫🇷 JS Developer proudly working for [Pix](https://www.pix.fr), a public interest group which aims at providing for citizens a way to measure, develop and highlight their digital skills.
 
+Currently learning Rust for web development. 
+
 ## SNS handles ✉️
 
 :point_right: [Twitter](https://twitter.com/alexandrecoin_)<br>
