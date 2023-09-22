@@ -6,6 +6,7 @@ Currently learning Rust for web development.
 
 ## SNS handles ✉️
 
+:point_right: [BlueSky](https://bsky.app/profile/alexandrecoin.bsky.social)<br>
 :point_right: [Twitter](https://twitter.com/alexandrecoin_)<br>
 :point_right: [LinkedIn](https://www.linkedin.com/in/alexandrecoin)<br>
 
