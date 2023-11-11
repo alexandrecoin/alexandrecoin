@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Alexandre, a 🇫🇷 JS Developer proudly working for [Pix](https://www.pix.fr), a public interest group which aims at providing for citizens a way to measure, develop and highlight their digital skills.
-
-Currently learning Rust for web development. 
+I'm Alexandre, a 🇫🇷 Full-Stack Developer proudly working for [Pix](https://www.pix.fr), a public interest group which aims at providing for citizens a way to measure, develop and highlight their digital skills.
 
 ## SNS handles ✉️
 
